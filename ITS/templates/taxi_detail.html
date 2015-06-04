@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+
+{%for info in taxi_info%}
+<h3>Taxi id : {{info.taxi_id}}</h3>
+<h5>Driver name : {{info.name}}</h5>
+<h5>Driver aadhar number : {{info.aadhar_no}}</h5>
+<h5>Driver age : {{info.age}}</h5>
+<h5>Driver sex : {{info.sex}}</h5>
+{% endfor %}
