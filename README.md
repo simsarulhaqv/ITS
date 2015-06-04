@@ -7,4 +7,4 @@ Intelligent Taxi Service : Internship Project at ICFOSS
 #### Team Members :
    - *Muhammed Roshan*
    - *Amal K P* 
-   - *Rohit R Nath* \n
+   - *Rohit R Nath*
