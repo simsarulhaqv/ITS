@@ -1,10 +1,8 @@
 # ITS
-Intelligent Taxi Service : Internship Project at ICFOSS 
+Intelligent Taxi Service
 
-#### Team Lead :
+#### Contributers :
    - *Simsarul Haq Vengasseri*
-
-#### Team Members :
    - *Muhammed Roshan*
    - *Amal K P* 
-   - *Rohit R Nath*
+   - *Thomas*
